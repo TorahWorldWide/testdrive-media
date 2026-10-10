@@ -1,0 +1,252 @@
+{
+ "credits": [
+  {
+   "key": "grapple-chain",
+   "name": "Grapple chain",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Two_U.S._Marines,_with_2nd_Maintenance_Battalion,_2nd_Marine_Logistics_Group_(Forward),_hook_chains_onto_a_lift_so_they_can_tow_a_damaged_vehicle_at_Forward_Operating_Base_Edinburgh,_Afghanistan,_June_20,_2011_110620-M-UV027-052.jpg",
+   "author": "Sgt. Rachael Moore",
+   "license": "Public domain"
+  },
+  {
+   "key": "piston-arm",
+   "name": "Piston arm",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hydraulic_piston_cylinder_coloured.jpg",
+   "author": "Hydraulic_piston_cylinder_coloured.png: *Hydraulic_piston_cylinder.png: User:Jamclaassen\nderivative work: Daniele Pugliesi (talk)",
+   "license": "Public domain"
+  },
+  {
+   "key": "car-door",
+   "name": "Car door",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_(L316)_-_left_side_-_part_of_front_door,_door_handle,_hinge_of_rear_door.jpg",
+   "author": "Pittigrilli",
+   "license": "CC0"
+  },
+  {
+   "key": "chainsaw",
+   "name": "Chainsaw",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chainsaw.JPG",
+   "author": "kallerna",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "jackhammer",
+   "name": "Jackhammer",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Jackhammer.jpg",
+   "author": "User Josh Parris on en.wikipedia",
+   "license": "Public domain"
+  },
+  {
+   "key": "welding-torch",
+   "name": "Welding torch",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Oxy-acetylene_torch,_France,_c._1906_-_Higgins_Armory_Museum_-_DSC05446.JPG",
+   "author": "Daderot",
+   "license": "Public domain"
+  },
+  {
+   "key": "jumper-cables",
+   "name": "Jumper cables",
+   "source_url": "https://commons.wikimedia.org/wiki/File:NOCO_12-Volt_Car_Battery_Clips_-_Car_Jumper_Cable_(42059511091).jpg",
+   "author": "Tony Webster from Minneapolis, Minnesota, United States",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "cold-chisel",
+   "name": "Cold chisel",
+   "source_url": "https://commons.wikimedia.org/wiki/File:ColdChisels.jpg",
+   "author": "No machine-readable author provided. Graibeard assumed (based on copyright claims).",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "tailpipe",
+   "name": "Tailpipe",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Silencer_at_valve.jpg",
+   "author": "Adville",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "crowbar",
+   "name": "Crowbar",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Crowbar_2025.jpg",
+   "author": "ZekeDane",
+   "license": "Public domain"
+  },
+  {
+   "key": "shovel",
+   "name": "Shovel",
+   "source_url": "https://commons.wikimedia.org/wiki/File:World_War_I_entrenching_tool.png",
+   "author": "RootOfAllLight",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "flamethrower",
+   "name": "Flamethrower",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Flamethrower_in_Vietnam.jpg",
+   "author": "Pearson, CPL, Photographer; Post-Work by W.wolny",
+   "license": "Public domain"
+  },
+  {
+   "key": "saw-launcher",
+   "name": "Saw launcher",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Circular_saw_blades_gn.jpg",
+   "author": "Gnangcomapp",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "laser-cutter",
+   "name": "Laser cutter",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Industrial_4kW_laser_with_flying_optics_system.jpg",
+   "author": "Metaveld BV",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "flare-gun",
+   "name": "Flare gun",
+   "source_url": "https://commons.wikimedia.org/wiki/File:1930s_Flare_Gun.jpg",
+   "author": "Mbrickn",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "co2-extinguisher",
+   "name": "CO2 extinguisher",
+   "source_url": "https://commons.wikimedia.org/wiki/File:CO2_Extinguisher_Trolley_Mounted_HMS_Albion.jpg",
+   "author": "Antti Leppänen",
+   "license": "CC BY 4.0"
+  },
+  {
+   "key": "canister-lobber",
+   "name": "Canister lobber",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Propane_tanks.jpg",
+   "author": "Tomascastelazo",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "arc-welder",
+   "name": "Arc welder",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Manual_Metal_Arc_welding_(MMAW)_(4791858983).jpg",
+   "author": "Emilian Robert Vicol from Com. Balanesti, Romania",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "nail-gun",
+   "name": "Nail gun",
+   "source_url": "https://commons.wikimedia.org/wiki/File:A_Construction_Battalion_Unit_412_(CBU-412)_uses_a_pneumatic_nail_driver_to_anchor_studs_in_a_frame_as_his_coworker_holds_the_wood_in_place._The_builders_are_constructing_a_window_f_-_DPLA_-_cd674145390605271d763939eb631834.jpeg",
+   "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994",
+   "license": "Public domain"
+  },
+  {
+   "key": "steam-cannon",
+   "name": "Steam cannon",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Queen_Street_Mill_-_Lancashire_Boilers_Steam_pressure_gauge_5453.JPG",
+   "author": "Clem Rutter, Rochester, Kent.",
+   "license": "CC BY 3.0"
+  },
+  {
+   "key": "siphon-pump",
+   "name": "Siphon pump",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hand_pump_ornament_at_Boreham,_Essex,_England.jpg",
+   "author": "Acabashi",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "pressure-washer",
+   "name": "Pressure washer",
+   "source_url": "https://commons.wikimedia.org/wiki/File:High-Pressure-Cleaning-with-Personal-Protective-Equipment-01.jpg",
+   "author": "CEphoto, Uwe Aranas",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "quarry-charges",
+   "name": "Quarry charges",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Blasting_machine_-_CIL_no_30.jpg",
+   "author": "Cantons-de-l'Est",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "tyre-launcher",
+   "name": "Tyre launcher",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Truck_Tyre_Trouble_-_geograph.org.uk_-_2253117.jpg",
+   "author": "Peter Whatley",
+   "license": "CC BY-SA 2.0"
+  },
+  {
+   "key": "junk-cannon",
+   "name": "Junk cannon",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Spudguns.jpg",
+   "author": "Kar98",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "scrap-magnet",
+   "name": "Scrap magnet",
+   "source_url": "https://commons.wikimedia.org/wiki/File:NSRW_Magnet_Lifting_Pig_Iron.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain"
+  },
+  {
+   "key": "harpoon-gun",
+   "name": "Harpoon gun",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Speargun.jpg",
+   "author": "nugunslinger",
+   "license": "CC BY 2.0"
+  },
+  {
+   "key": "torque-wrench",
+   "name": "Torque wrench",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Craftsman_click_torque_wrench.jpg",
+   "author": "J.C. Fields (Talk) (Uploads)",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "key": "rivet-gun",
+   "name": "Rivet gun",
+   "source_url": "https://commons.wikimedia.org/wiki/File:2023_Nitownica.jpg",
+   "author": "Jacek Halicki",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "key": "foam-gun",
+   "name": "Foam gun",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Kartonpiyer_al%C3%A7%C4%B1_ile_yap%C4%B1lan_tavan_%C3%A7%C4%B1ta_uygulamas%C4%B1.jpg",
+   "author": "Zekeriyya güneş GNSdekor®",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "existing": [
+  {
+   "name": "Fists",
+   "key": "fists"
+  },
+  {
+   "name": "Sword",
+   "key": "sword"
+  },
+  {
+   "name": "Spear",
+   "key": "spear"
+  },
+  {
+   "name": "War hammer",
+   "key": "war-hammer"
+  },
+  {
+   "name": "Throwing knives",
+   "key": "throwing-knives"
+  },
+  {
+   "name": "Assault rifle",
+   "key": "assault-rifle"
+  },
+  {
+   "name": "Marksman rifle",
+   "key": "marksman-rifle"
+  },
+  {
+   "name": "Bazooka",
+   "key": "bazooka"
+  },
+  {
+   "name": "Shotgun",
+   "key": "shotgun"
+  }
+ ]
+}
